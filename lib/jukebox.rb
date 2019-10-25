@@ -30,7 +30,7 @@ def list (array)
 
 end
 
-def play
+def play(songs)
 end
 
 
