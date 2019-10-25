@@ -23,7 +23,7 @@ end
 
 
 def list (array)
-  "songs[0],"
+  "#{array[0]},"
 end
 
 def play
