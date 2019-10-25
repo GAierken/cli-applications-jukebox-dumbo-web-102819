@@ -30,9 +30,10 @@ def list (array)
 
 end
 
-def play(songs)
+def play(array)
   puts "Please enter a song name or number:"
   user_input = gets.strip
+  if user_input =
 
 end
 
