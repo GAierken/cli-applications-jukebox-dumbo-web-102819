@@ -24,8 +24,8 @@ end
 
 def list (array)
     list_one = {}
-    array.ecah_with_index{|singer,song|
-    list_one[singer] = song
+    array.ecah_with_index{|song,index|
+    list_one[songr] = index
   }
 
 list_one
