@@ -23,7 +23,7 @@ end
 
 
 def list (songs)
-  
+  "songs[0],"
 end
 
 def play
