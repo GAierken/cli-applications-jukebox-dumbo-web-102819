@@ -23,7 +23,10 @@ end
 
 
 def list (array)
-  "#{array[0]},"
+    i=0
+    while i<array.length do
+      
+
 end
 
 def play
