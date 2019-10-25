@@ -22,3 +22,7 @@ end
 
 def play
 end
+
+
+def exit_jukebox
+end
