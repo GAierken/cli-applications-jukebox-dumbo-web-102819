@@ -25,9 +25,9 @@ end
 def list (array)
     list_one = {}
     array.each_with_index{|song,index|
-    puts "#{index+1}.#{song}"
+    puts "#{index+1}. #{song}"
   }
- 
+
 end
 
 def play
