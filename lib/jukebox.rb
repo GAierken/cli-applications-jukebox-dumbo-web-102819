@@ -23,9 +23,11 @@ end
 
 
 def list (array)
-    i=0
-    while i<array.length do
-      
+    list_one={}
+    array.ecah_with_index{|singer,song|
+    list_one[singer]=song
+  }
+
 
 end
 
