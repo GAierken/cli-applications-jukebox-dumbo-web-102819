@@ -24,8 +24,8 @@ end
 
 def list (array)
     list_one = {}
-    array.ecah_with_index{|song,index|
-    list_one[song] = index
+    array.each_with_index{|song,index|
+    puts "#{index+1}.#{song}"
   }
 
 list_one
