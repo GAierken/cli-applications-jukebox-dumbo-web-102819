@@ -19,3 +19,6 @@ end
 
 def list
 end
+
+def play
+end
