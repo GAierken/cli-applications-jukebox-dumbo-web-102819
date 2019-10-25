@@ -22,7 +22,7 @@ puts "- exit : exits this program"
 end
 
 
-def list (songs)
+def list (array)
   "songs[0],"
 end
 
